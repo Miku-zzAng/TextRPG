@@ -57,4 +57,8 @@
 ## 인게임 플레이
 ![image](https://github.com/Miku-zzAng/TextRPG-in-2008-Maplestory/assets/141126078/f1e3108e-401b-488e-b5b4-53a6f4a379c5)
 
+## 초안 계획서
+[미니 프로젝트 20201123 김선혁.pptx](https://github.com/OuserDev/TextRPG/files/13650894/20201123.pptx)
+
+
 
